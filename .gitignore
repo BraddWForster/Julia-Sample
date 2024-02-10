@@ -1,3 +1,10 @@
+<<<<<<< HEAD
 .DS_Store
 **/.ipynb_checkpoints
 .vscode/settings.json
+=======
+.DS_Store
+**/.ipynb_checkpoints
+.vscode/settings.json
+*.tmp
+>>>>>>> 9bb23180060b32eded604bf18cd40f7b72bfea26
